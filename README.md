@@ -1,5 +1,6 @@
 # Camera-Sales-Analysis
 **Camera Sales Analysis Dashboard from scratch using an Excel file as the data source by Power BI**
+
 **Dashboard Building: I designed an engaging, user-friendly Camera Sales Dashboard that provides actionable insights for decision-makers.**
 
 ![Screenshot 2025-01-19 151901](https://github.com/user-attachments/assets/d5afde8b-97dd-420f-aa9b-a29546157204)
